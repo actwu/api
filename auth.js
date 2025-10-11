@@ -1,4 +1,7 @@
 /*! flexAuth.js v1.0 | lightweight localStorage auth handler */
+/*
+Simple Auth made by Actwu
+*/
 ;(() => {
 
 const flexAuth = (() =>
